@@ -1,0 +1,6 @@
+@TuitionApi.Gateway_HostAddress = http://localhost:5247
+
+GET {{TuitionApi.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# CSVs (Optional - keep sample, ignore others if needed)
+# *.csv
+!sample_students.csv
